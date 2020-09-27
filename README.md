@@ -1,6 +1,6 @@
 # CartTrainer
 
-CartTrainer is a tool to try Reinforcement Learning easily on a taxi problem. The driver must pick up the passenger at the blue letter and drop him at the purple letter.
+CartTrainer is a tool to try Reinforcement Learning easily CartPole problem.
 
 There is an example of code at the bottom of the script, and the different parameters you can play with are :
 
