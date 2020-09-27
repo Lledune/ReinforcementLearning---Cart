@@ -1,6 +1,6 @@
 # CartTrainer
 
-CartTrainer is a tool to try Reinforcement Learning easily CartPole problem.
+CartTrainer is a tool to try Reinforcement Learning easily on a CartPole problem.
 
 There is an example of code at the bottom of the script, and the different parameters you can play with are :
 
